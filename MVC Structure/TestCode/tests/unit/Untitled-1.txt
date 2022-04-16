@@ -1,0 +1,4 @@
+if __name__ == '__main__':
+    node=input()
+    edge=input()
+    print(nodes,edges+1)
